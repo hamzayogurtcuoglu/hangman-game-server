@@ -1,2 +1,2 @@
 # hangman-game-server
-You can play hang with your own server.
+You can play hangman game with your own server.
